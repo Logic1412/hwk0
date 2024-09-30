@@ -4,5 +4,5 @@ confusion = 0x7fffffffdf10 "\002"
     j = 0
     c = 0 '\000'
     d = 0 '\000'
-    sid = 0x7fffffffe320 "shaxie@ucdavis.edu"
-        *sid=115 's'
+    sid = 0x7fffffffe321 "920694871"
+        *sid = 57 '9'
