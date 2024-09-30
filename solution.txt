@@ -1,5 +1,5 @@
 confusion = 0x7fffffffdf10 "\002"
-    *confusion = 2 '\002'
+    *confusion = 3 '\003'
     i = 0
     j = 0
     c = 0 '\000'
